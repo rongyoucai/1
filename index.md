@@ -1,37 +1,12 @@
-## Welcome to GitHub Pages
+## 欢迎来到我的荣有才的小屋
 
-You can use the [editor on GitHub](https://github.com/rongyoucai/rongyoucai.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
+### 今天是2021-01-17 17:48:41 星期日
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+#### 我的Log
 
-### Markdown
+##### 2021-01-17 17:50:04 星期日
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+今天像所有平凡而伟大的日子一样。头脑中思绪纷飞，整理了一些思绪，但是还时理不清。
 
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/rongyoucai/rongyoucai.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+今天的新闻
+吉林现1传102#【#吉林102例感染者为同一病例传播#】吉林省疫情防控发布会今天通报，截至1月17日14时，#吉林省累计报告34例确诊#，无症状感染者80例。吉林省本次疫情为黑龙江省望奎县无症状感染者输入后引发本地传播。目前报告的114例感染者中，有9例为黑龙江省输入，105例为本地续发感染。在续发感染者中，3例为省外输入感染者的家庭成员，另102例感染者为同一输入病例林某传播。林某从事个体营销职业，黑龙江籍，近期多次往返于黑吉两省。 [央视新闻的微博视频](https://weibo.com/cctvxinwen?refer_flag=1005055013_ "央视新闻的微博视频")
